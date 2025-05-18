@@ -47,4 +47,3 @@ This tool is intended for educational purposes only. Use it responsibly and only
 
 ## Version
 - 0.1 📅
-```
