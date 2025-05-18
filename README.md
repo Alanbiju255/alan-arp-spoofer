@@ -19,8 +19,8 @@ ARP Spoofer is a simple Python tool that allows you to perform ARP spoofing on a
 1. Clone the repository:
    
    ```bash
-   git clone https:/ARP-Spoofer.git
-   cd ARP-Spoofer
+   https://github.com/Alanbiju255/alan-arp-spoofer.git
+   cd alan-arp-spoofer
    ```
 
 2. Install the required libraries:
